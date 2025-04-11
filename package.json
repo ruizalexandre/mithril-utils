@@ -1,0 +1,15 @@
+{
+  "name": "mithril-utils",
+  "version": "1.0.0",
+  "description": "Some Mithril.js utils",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "mithriljs",
+    "mithril",
+    "javascript",
+    "js"
+  ],
+  "author": "Alexandre RUIZ",
+  "license": "ISC"
+}
