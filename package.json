@@ -1,6 +1,6 @@
 {
   "name": "@ruizalexandre/mithril-utils",
-  "version": "0.0.3",
+  "version": "0.0.8",
   "description": "Some Mithril.js utils",
   "main": "index.js",
   "scripts": {
