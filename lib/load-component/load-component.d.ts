@@ -1,4 +1,4 @@
-import m from "mithril";
+import m from 'mithril';
 
 export function loadComponent<T = m.Component | m.ClassComponent>(
   componentPromise: Promise<T>,

@@ -23,3 +23,8 @@ See the [LoadComponent documentation](lib/load-component/README.md) for more det
 
 The `RouterOutlet` component is used to render the current route's component in Mithril.js. It listens for route changes and updates the displayed component accordingly.<br />
 See the [RouterOutlet documentation](lib/router-outlet/README.md) for more details.
+
+### FormBuilder
+
+The `FormBuilder` class builds a Mithril.js form from a declarative schema, handling rendering, value binding, and per-field validation. Output is escaped by Mithril and passthrough attributes are sanitized, so untrusted schema data cannot inject markup or handlers.<br />
+See the [FormBuilder documentation](lib/form-builder/README.md) for more details.

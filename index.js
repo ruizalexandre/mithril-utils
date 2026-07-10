@@ -3,3 +3,6 @@ export { loadComponent };
 
 import { RouterOutlet } from './lib/router-outlet/router-outlet';
 export { RouterOutlet };
+
+import { FormBuilder } from './lib/form-builder/form-builder';
+export { FormBuilder };
